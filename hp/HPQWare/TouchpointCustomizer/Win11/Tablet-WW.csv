@@ -1,0 +1,22 @@
+Name,Order,Size,Region,AppType,Value,ChasisType,BrandName,RegionCode,SKUOptionConfig,ChannelID,FeatureBytes,UID
+GlamCam,1,2x2,ALL,AppID,AD2F1837.HPGlamCamWidget_v10z8vjag6ke6!App,,,,,,,
+Amazon.com,2,2x2,ALL,DtAppLinkPath,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Amazon.com.lnk,,,,,,,
+Dropbox,3,2x2,ALL,AppID,C27EB4BA.Dropbox_xbfy0k16fey96!App,,,,,,S_Mode,
+Dropbox,3,2x2,ALL,AppID,C27EB4BA.DropboxOEM_xbfy0k16fey96!App,,,,,,,
+Booking.com,4,2x2,ALL,DtAppLinkPath,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Booking.com.lnk,,,,,,,
+Simple Solitaire,5,2x2,ALL,AppID,26720RandomSaladGamesLLC.3899848563C1F_kx24dqmazqk8j!App,,,,,,,
+myHP,101,Taskbar,ALL,AppID,AD2F1837.myHP_v10z8vjag6ke6!App,,,,,,,
+HPSA,102,Taskbar,ALL,AppID,AD2F1837.HPSupportAssistant_v10z8vjag6ke6!AD2F1837.HPSupportAssistant,,,,,,,
+McAfee,103,Taskbar,ALL,AppID,5A894077.McAfeeSecurity_wafk5atnkzcwy!App,,,,,,S_Mode,
+McAfee,103,Taskbar,ALL,DtAppLinkPath,C:\Program Files\McAfee\CoreUI\McAfee LiveSafe.lnk,,,,,,,
+McAfee,999,Taskbar,ALL,DtAppLinkPath,C:\Program Files\McAfee\WPS\McAfee.lnk,,,,ABT,,,
+McAfee,103,Taskbar,ALL,DtAppLinkPath,C:\Program Files\McAfee\WPS\McAfee.lnk,,,,,,,
+McAfee,103,Taskbar,ALL,DtAppLinkPath,,,,,ABT,,,15
+McAfee,103,Taskbar,ALL,DtAppLinkPath,,,,,ABT,,,14
+McAfee,999,Taskbar,ALL,DtAppLinkPath,,,,,ABT,,,13
+McAfee,103,Taskbar,ALL,DtAppLinkPath,,,,,,,,13
+Amazon.com,1,EdgeFav,ALL,Link,http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp,,,,,,,
+Agoda.com,2,EdgeFav,ALL,Link,https://js.redirect.hp.com/jumpstation?bd=agoda&c=232&locale=*&pf=*&tp=edge&TYPE=3,,,,AKL;AR6;ACJ;UUF;AB0;AB5;AB2;B1L;AB1;AB4;ABJ;ACF;A2K;ARE,,,
+Booking.com,999,EdgeFav,ALL,Link,https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3,,,,AB6;BH4;BH5;AKL;AR6;ACJ;UUF;AB0;AB5;AB2;B1L;AB1;AB4;ABJ;ACF;A2K;ARE,,,
+Booking.com,2,EdgeFav,ALL,Link,https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3,,,,,,,
+McAfee,3,EdgeFav,ALL,Link,http://www.mcafee.com/consumer/v/browserfav/hp.html,,,,,,,

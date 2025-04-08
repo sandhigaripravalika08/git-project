@@ -1,0 +1,26 @@
+Name,Order,Size,Region,AppType,Value,ChasisType,BrandName,RegionCode,SKUOptionConfig,ChannelID,FeatureBytes,UID
+Amazon.com,1,2x2,ALL,DtAppLinkPath,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Amazon.com.lnk,,,,ABA;ABJ,,,
+Amazon.com,999,2x2,ALL,DtAppLinkPath,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Amazon.com.lnk,,,EMEA,ABF;AB9;ABE;ABH,,,
+Amazon.com,1,2x2,ALL,DtAppLinkPath,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Amazon.com.lnk,,,EMEA,,,,
+Dropbox,999,2x2,ALL,AppID,C27EB4BA.Dropbox_xbfy0k16fey96!App,,,,AB2,,S_Mode,
+Dropbox,2,2x2,ALL,AppID,C27EB4BA.Dropbox_xbfy0k16fey96!App,,,,,,S_Mode,
+Dropbox,999,2x2,ALL,AppID,C27EB4BA.DropboxOEM_xbfy0k16fey96!App,,,,AB2,,,
+Dropbox,2,2x2,ALL,AppID,C27EB4BA.DropboxOEM_xbfy0k16fey96!App,,,,,,,
+HP Prime,3,2x2,ALL,AppID,AD2F1837.HPPrimeGraphingCalculator_v10z8vjag6ke6!AD2F1837.HPPrimeGraphingCalculator,,,,,,,
+Kortext,4,2x2,ALL,AppID,Kortext.Kortext_htp4jyd3mpprc!App,,,,,,,
+HP BULB,5,2x2,ALL,AppID,AD2F1837.bulbDigitalPortfolioforHPSchoolPack_v10z8vjag6ke6!App,,,,,,,
+HP Classroom Manager,6,2x2,ALL,AppID,AD2F1837.HPClassroomManager_v10z8vjag6ke6!NSSClient,,,,,,,
+QuickDrop,7,2x2,ALL,AppID,AD2F1837.HPQuickDrop_v10z8vjag6ke6!App,,,,,,,
+IntelMDE,7,2x2,ALL,AppID,AppUp.IntelTechnologyMDE_8j3eq9eme6ctt!App,,,,,,,
+myHP,101,Taskbar,ALL,AppID,AD2F1837.myHP_v10z8vjag6ke6!App,,,,,,,
+HPSA,102,Taskbar,ALL,AppID,AD2F1837.HPSupportAssistant_v10z8vjag6ke6!AD2F1837.HPSupportAssistant,,,,,,,
+McAfee,103,Taskbar,ALL,AppID,5A894077.McAfeeSecurity_wafk5atnkzcwy!App,,,,,,S_Mode,
+McAfee,103,Taskbar,ALL,DtAppLinkPath,C:\Program Files\McAfee\CoreUI\McAfee LiveSafe.lnk,,,,,,,
+McAfee,999,Taskbar,ALL,DtAppLinkPath,C:\Program Files\McAfee\WPS\McAfee.lnk,,,,ABT,,,
+McAfee,103,Taskbar,ALL,DtAppLinkPath,C:\Program Files\McAfee\WPS\McAfee.lnk,,,,,,,
+McAfee,103,Taskbar,ALL,DtAppLinkPath,,,,,ABT,,,15
+McAfee,103,Taskbar,ALL,DtAppLinkPath,,,,,ABT,,,14
+McAfee,999,Taskbar,ALL,DtAppLinkPath,,,,,ABT,,,13
+McAfee,103,Taskbar,ALL,DtAppLinkPath,,,,,,,,13
+Amazon.com,1,EdgeFav,ALL,Link,http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp,,,,,,,
+McAfee,2,EdgeFav,ALL,Link,http://www.mcafee.com/consumer/v/browserfav/hp.html,,,,,,,

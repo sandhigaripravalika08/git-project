@@ -1,0 +1,17 @@
+{
+	"primaryOEMPins" : 
+	[
+		{
+			"desktopAppLink" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TCO Certified.lnk"
+		},
+		{
+			"desktopAppLink" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TCO Edge Certified.lnk"
+		},
+		{
+			"desktopAppLink" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\МойОфис.lnk"
+		},
+		{
+			"desktopAppLink" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Яндекс Браузер.lnk"
+		}
+	]
+}

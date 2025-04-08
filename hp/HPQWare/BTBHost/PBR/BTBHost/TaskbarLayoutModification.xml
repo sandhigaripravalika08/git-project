@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LayoutModificationTemplate xmlns="http://schemas.microsoft.com/Start/2014/LayoutModification" xmlns:defaultlayout="http://schemas.microsoft.com/Start/2014/FullDefaultLayout" xmlns:start="http://schemas.microsoft.com/Start/2014/StartLayout" xmlns:taskbar="http://schemas.microsoft.com/Start/2014/TaskbarLayout" Version="1">
+	<CustomTaskbarLayoutCollection>
+		<defaultlayout:TaskbarLayout>
+			<taskbar:TaskbarPinList>
+				<taskbar:UWA AppUserModelID="AD2F1837.myHP_v10z8vjag6ke6!App"/>
+				<taskbar:UWA AppUserModelID="AD2F1837.HPSupportAssistant_v10z8vjag6ke6!AD2F1837.HPSupportAssistant"/>
+				<taskbar:DesktopApp DesktopApplicationLinkPath="C:\Program Files\McAfee\WPS\McAfee.lnk"/>
+			</taskbar:TaskbarPinList>
+		</defaultlayout:TaskbarLayout>
+	</CustomTaskbarLayoutCollection>
+</LayoutModificationTemplate>

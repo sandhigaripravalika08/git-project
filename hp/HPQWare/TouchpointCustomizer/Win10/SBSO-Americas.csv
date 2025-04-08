@@ -1,0 +1,13 @@
+Name,Order,Size,Region,AppType,Value,ChasisType,BrandName,RegionCode,SKUOptionConfig,ChannelID,FeatureBytes,UID
+Amazon.com,1,2x2,ALL,DtAppLinkPath,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Amazon.com.lnk,,,,,,,
+Dropbox,2,2x2,ALL,AppID,C27EB4BA.Dropbox_xbfy0k16fey96!App,,,,,,S_Mode,
+Dropbox,2,2x2,ALL,AppID,C27EB4BA.DropboxOEM_xbfy0k16fey96!App,,,,,,,
+Adobe,3,2x2,ALL,DtAppLinkPath,,,,,,,,1
+Booking.com,4,2x2,ALL,DtAppLinkPath,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Booking.com.lnk,,,,,,,
+QuickDrop,5,2x2,ALL,AppID,AD2F1837.HPQuickDrop_v10z8vjag6ke6!App,,,,,,,
+myHP,101,Taskbar,ALL,AppID,AD2F1837.myHP_v10z8vjag6ke6!App,,,,,,,
+McAfee,102,Taskbar,ALL,AppID,5A894077.McAfeeSecurity_wafk5atnkzcwy!App,,,,,,S_Mode,
+McAfee,102,Taskbar,ALL,DtAppLinkPath,C:\Program Files\McAfee\CoreUI\McAfee LiveSafe.lnk,,,,,,,
+McAfee,102,Taskbar,ALL,DtAppLinkPath,,,,,,,,13
+Amazon.com,1,EdgeFav,ALL,Link,http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbus-ubpl&ref=aagateway-businesspc-hp,,,,,,,
+Booking.com,2,EdgeFav,ALL,Link,https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3,,,,,,,

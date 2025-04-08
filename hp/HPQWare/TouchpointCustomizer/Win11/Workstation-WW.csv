@@ -1,0 +1,10 @@
+Name,Order,Size,Region,AppType,Value,ChasisType,BrandName,RegionCode,SKUOptionConfig,ChannelID,FeatureBytes,UID
+Dropbox,1,2x2,ALL,AppID,C27EB4BA.Dropbox_xbfy0k16fey96!App,,,,,,S_Mode,
+Dropbox,1,2x2,ALL,AppID,C27EB4BA.DropboxOEM_xbfy0k16fey96!App,,,,,,,
+Adobe,2,2x2,ALL,DtAppLinkPath,,,,,,,,1
+QuickDrop,3,2x2,ALL,AppID,AD2F1837.HPQuickDrop_v10z8vjag6ke6!App,,,,,,,
+IntelMDE,3,2x2,ALL,AppID,AppUp.IntelTechnologyMDE_8j3eq9eme6ctt!App,,,,,,,
+HP Performance Advisor,4,2x2,ALL,DtAppID,{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\HP\HP Performance Advisor\Advisor.exe,,,,,,,
+HP ZCentral Remote Boost,5,2x2,ALL,DtAppLinkPath,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\HP ZCentral Remote Boost.lnk,,,,,,,
+myHP,101,Taskbar,ALL,AppID,AD2F1837.myHP_v10z8vjag6ke6!App,,,,,,,
+HPSA,102,Taskbar,ALL,AppID,AD2F1837.HPSupportAssistant_v10z8vjag6ke6!AD2F1837.HPSupportAssistant,,,,,,,

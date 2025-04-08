@@ -1,0 +1,15 @@
+set tarLength=IS_M30d 
+set tarOPCode=ACJ 
+set tarRegion=APJ 
+set tarChannelID=00 
+set tarBrand=Pavilion 
+set tarChannelType=BTO 
+set tarOSType=0 
+set CEPSBU=Consumer 
+set CEPSPlatformtype=NB 
+set MISsuiteID=1357 
+set oem=oemresf_1357.pam 
+set terms=GXT30D 
+set UWPAFFID=1357 
+set WPSAFFID=1357 
+set chassisType=9  

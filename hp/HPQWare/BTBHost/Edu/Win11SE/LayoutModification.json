@@ -1,0 +1,29 @@
+{
+	"primaryOEMPins" : 
+	[
+		{
+			"desktopAppLink" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TCO Certified.lnk"
+		},	
+		{
+			"packagedAppId" : "AD2F1837.HPClassroomManager_v10z8vjag6ke6!NSSClient"
+		},
+		{
+			"packagedAppId" : "AD2F1837.HPPrimeGraphingCalculator_v10z8vjag6ke6!AD2F1837.HPPrimeGraphingCalculator"
+		},
+		{
+			"packagedAppId" : "Kortext.Kortext_htp4jyd3mpprc!App"
+		}
+	],
+	"secondaryOEMPins" : 
+	[
+		{
+			"packagedAppId" : "AD2F1837.HPInteractiveLight_v10z8vjag6ke6!App"
+		},	
+		{
+			"packagedAppId" : "C45DFB17.FluidMathforHPSchoolPack_h1wbrfpbf1axt!App"
+		},
+		{
+			"packagedAppId" : "AD2F1837.bulbDigitalPortfolioforHPSchoolPack_v10z8vjag6ke6!App"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+Name,Order,Size,Region,AppType,Value,ChasisType,BrandName,RegionCode,SKUOptionConfig,ChannelID,FeatureBytes,UID
+myHP,1,2x2,ALL,AppID,AD2F1837.myHP_v10z8vjag6ke6!App,,,,,,,
+McAfee,2,2x2,ALL,AppID,5A894077.McAfeeSecurity_wafk5atnkzcwy!App,,,,,,S_Mode,
+McAfee,2,2x2,ALL,DtAppLinkPath,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\McAfee\McAfee LiveSafe.lnk,,,,,,,
+McAfee,2,2x2,ALL,DtAppLinkPath,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\McAfee\McAfee.lnk,,,,,,,
+McAfee,2,2x2,ALL,DtAppLinkPath,,,,,,,,12
+QuickDrop,3,2x2,ALL,AppID,AD2F1837.HPQuickDrop_v10z8vjag6ke6!App,,,,,,,
+IntelMDE,3,2x2,ALL,AppID,AppUp.IntelTechnologyMDE_8j3eq9eme6ctt!App,,,,,,,
+Walmart Shopping,4,2x2,ALL,DtAppLinkPath,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Walmart.lnk,,,,,3,,
+OMEN Command Center,101,Taskbar,ALL,AppID,AD2F1837.OMENCommandCenter_v10z8vjag6ke6!AD2F1837.OMENCommandCenter,,,,,,,
+HPSA,102,Taskbar,ALL,AppID,AD2F1837.HPSupportAssistant_v10z8vjag6ke6!AD2F1837.HPSupportAssistant,,,,,,,
+Dropbox,103,Taskbar,ALL,AppID,C27EB4BA.DropboxOEM_xbfy0k16fey96!App,,,,,,,
+McAfee,1,EdgeFav,ALL,Link,http://www.mcafee.com/consumer/v/browserfav/hp.html,,,,,,,
+Booking.com,2,EdgeFav,ALL,Link,https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3,,,,,,,
